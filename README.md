@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## About Me
 I’m a Data Science and Computer Science student at UNC, driven by a passion for the intersection of business and technology. I enjoy using data-driven solutions and analytical techniques to address real-world challenges and create impactful innovations. My goal is to bridge the gap between technical expertise and business strategy, contributing to smarter decision-making and efficient problem-solving in today’s digital world.
